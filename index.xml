@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabian Stürmer-Heiber</title>
+    <link>https://fabian.stuermerheiber.github.io/</link>
+      <atom:link href="https://fabian.stuermerheiber.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabian Stürmer-Heiber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fabian.stuermerheiber.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Fabian Stürmer-Heiber</title>
+      <link>https://fabian.stuermerheiber.github.io/</link>
+    </image>
+    
+    <item>
+      <title>The Fiscal Return to Childcare Policies</title>
+      <link>https://fabian.stuermerheiber.github.io/publication/ccsubsidies/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://fabian.stuermerheiber.github.io/publication/ccsubsidies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women’s early careers and childcare policy</title>
+      <link>https://fabian.stuermerheiber.github.io/publication/promotions/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://fabian.stuermerheiber.github.io/publication/promotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Career Cost of Working Part-Time</title>
+      <link>https://fabian.stuermerheiber.github.io/publication/hours/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://fabian.stuermerheiber.github.io/publication/hours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fabian.stuermerheiber.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fabian.stuermerheiber.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
