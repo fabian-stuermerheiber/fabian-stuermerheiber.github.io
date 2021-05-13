@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Fabian Stürmer-Heiber</title>
-    <link>https://fabian.stuermerheiber.github.io/tags/</link>
-      <atom:link href="https://fabian.stuermerheiber.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fabian-stuermerheiber.github.io/tags/</link>
+      <atom:link href="https://fabian-stuermerheiber.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://fabian.stuermerheiber.github.io/media/icon_hu9fba192e2ec5ce1d5d890185a0e13b31_10759_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fabian-stuermerheiber.github.io/media/icon_hu9fba192e2ec5ce1d5d890185a0e13b31_10759_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://fabian.stuermerheiber.github.io/tags/</link>
+      <link>https://fabian-stuermerheiber.github.io/tags/</link>
     </image>
     
   </channel>
